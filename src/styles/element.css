@@ -1,0 +1,49 @@
+.Container {
+    width: 50%;
+    height: fit-content;
+    color: white;
+    font-size: 2rem;
+    background-color: rgb(31, 33, 61);
+}
+
+.GeneralInfo {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.Info {
+    margin: 10px;
+    color: white;
+    font-size: 2rem;
+}
+
+.Title {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.Card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(89, 24, 108);
+    color: white;
+    padding: 20px;
+}
+
+.Card-upper {
+    display: flex;
+    justify-content: space-between;
+    font-size: 3rem;
+}
+
+.Card-lower {
+    text-align: center;
+    font-size: 15rem;
+}
+
+.None {
+    display: none;
+}

@@ -1,0 +1,11 @@
+.Chem-Button {
+    margin: 10px;
+    border: none;
+    min-width: 1rem;
+    min-height: 30px;
+    border-radius: 25px;
+    padding: 10px;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
